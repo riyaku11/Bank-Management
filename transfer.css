@@ -1,0 +1,43 @@
+h1{
+    font-size: 40px;
+    color: blanchedalmond;
+    text-align: center;
+}
+input {
+    border-radius: 10px;
+    width: 200%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    padding-left: 15px;
+    /* margin-left: 45px; */
+  }
+
+  .box2{
+      margin: auto;
+      position: absolute;
+      top: 220px;
+      left: 400px;
+    
+  }
+
+  input:focus {
+    border: 3px solid #555;
+  }
+
+  h3{
+      color: blanchedalmond;
+  }
+
+  button{
+      background-color: coral;
+      border:solid white 0.1em;
+      height: 32px;
+      width: 190px;
+      border-radius: 8px;
+ cursor: pointer;      
+    }
+
+    button:hover{
+        background-color: tomato;
+    }
